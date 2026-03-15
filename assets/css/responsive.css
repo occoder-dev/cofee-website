@@ -1,0 +1,115 @@
+
+
+@media (max-width:576px){
+
+    h1{
+        font-size: 60px;
+    }
+    h2{
+        font-size: 50px;
+    }
+
+    #menu .container{
+        text-align:center ;
+    }
+
+    .service-text{
+        text-align: center;
+        display: flex;
+        justify-content: center;
+    }
+
+    .photo-1-location6{
+        top: 10px;
+    }
+
+    .photo-1-location5{
+        top: 10px;
+    }
+
+    .photo-1-location2{
+        top: 10px;
+    }
+    .photo-1-location3{
+        top: -14px;
+    }
+
+    .photo-1-location{
+        top: 45rem;
+    }
+
+    .pricing-head{
+        display: flex;
+        justify-content: center;
+    }
+
+    .icons-cart{
+        top: -6px;
+        left: 45%;
+        padding-left: 3px;
+        padding-top: 4px;
+    }
+    .pricing-head{
+        padding-left: 1rem;
+        padding-right: 15px;
+    }
+    .photo-1-location{
+        top: 22.5rem;
+    }
+
+    .menu-prize-tag{
+        left: 28%;
+        top: ;
+    }
+}
+
+
+@media (min-width:577px) and (max-width:768px){
+
+    .icons-cart{
+        top: -8px;
+        left: 0;
+    }
+
+    .photo-1-location3{
+        top: -12px !important;
+    }
+    .photo-1-location{
+        top: 97vh;
+    }
+
+    .about-div-img{
+        width: 100%;
+        background-size:cover ;
+        background-position: bottom;
+        height: 450px;
+    }
+    
+    .photo-1-location6{
+        top: 10px;
+    }
+}
+
+@media (min-width:769px) and (max-width:992px){
+    .photo-1-location3{
+        top: -12px !important;
+    }
+    .photo-1-location{
+        top: 22.5rem;
+    }
+}
+
+
+@media (min-width:993px) and (max-width:1199px){
+
+    .photo-1-location{
+        top: 22.5rem;
+    }
+    .photo-1-location3{
+        top: -12px !important;
+    }
+
+    .photo-1-location6{
+        top: 10px;
+    }
+}
